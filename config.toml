@@ -1,0 +1,11 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+  [[module.imports]]
+    path = "github.com/simple-icons/simple-icons"
+      [[module.imports.mounts]]
+        source = "icons"
+        target = "assets/svg/simple-icons"
+      [[module.imports.mounts]]
+        source = "_data"
+        target = "data"
