@@ -1,5 +1,5 @@
 {
-  "name": "fireroad",
+  "name": "Fireroad",
   "version": "1.0.0",
   "description": "Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme",
   "license": "GPL-2.0",
@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdfinst/fireroad.git"
+    "url": "git+https://github.com/bdfinst/Fireroad.git"
   },
   "bugs": {
-    "url": "https://github.com/bdfinst/fireroad/issues"
+    "url": "https://github.com/bdfinst/Fireroad/issues"
   },
-  "homepage": "https://github.com/bdfinst/fireroad"
+  "homepage": "https://github.com/bdfinst/Fireroad"
 }

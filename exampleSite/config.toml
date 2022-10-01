@@ -1,8 +1,8 @@
 baseurl = "/"
-title = "fireroad"
+title = "Fireroad"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "fireroad"
+theme = "Fireroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 

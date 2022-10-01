@@ -1,11 +1,11 @@
-# fireroad
+# Fireroad
 
-**fireroad** is a responsive, simple, clean and content-focused [Hugo](https://gohugo.io/) theme based on the
+**Fireroad** is a responsive, simple, clean and content-focused [Hugo](https://gohugo.io/) theme based on the
 [MH Magazine lite](https://wordpress.org/themes/mh-magazine-lite/) theme.
 
-**[Demo](https://fireroad-demo.netlify.app/)** • **[Docs](https://fireroad-demo.netlify.app/docs/)**
+**[Demo](https://Fireroad-demo.netlify.app/)** • **[Docs](https://Fireroad-demo.netlify.app/docs/)**
 
-![screenshot](https://raw.githubusercontent.com/bdfinst/fireroad/master/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/bdfinst/Fireroad/master/images/screenshot.png)
 
 **Features:**
 
@@ -25,25 +25,25 @@
 *Before starting, please be sure that you have
 [installed Hugo](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo) and
 [created a new site](https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site). After that, you are ready
-to install **fireroad**.*
+to install **Fireroad**.*
 
 From your project's root directory, run:
 
 ```
-git clone https://github.com/bdfinst/fireroad.git themes/fireroad
+git clone https://github.com/bdfinst/Fireroad.git themes/Fireroad
 ```
 
 Or, if you don't plan to make any significant changes but want to track and update the theme, you can add it as a git
 submodule via the following command:
 
 ```
-git submodule add https://github.com/bdfinst/fireroad.git themes/fireroad
+git submodule add https://github.com/bdfinst/Fireroad.git themes/Fireroad
 ```
 
-Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to `fireroad`:
+Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to `Fireroad`:
 
 ```
-theme = "fireroad"
+theme = "Fireroad"
 ```
 
 ## Configuration
@@ -52,10 +52,10 @@ theme = "fireroad"
 
 ```toml
 baseurl = "/"
-title = "fireroad"
+title = "Fireroad"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
-theme = "fireroad"
+theme = "Fireroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
@@ -99,7 +99,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "fireroad" # Logo title, otherwise will use site title
+  title = "Fireroad" # Logo title, otherwise will use site title
   subtitle = "Just another site" # Logo subtitle
 
 [Params.thumbnail]
@@ -188,10 +188,10 @@ For more information about all available standard front matter variables, please
 ## Contributing
 
 Have you found a bug or got an idea for a new feature? Feel free to use the
-[issue tracker](https://github.com/bdfinst/fireroad/issues) to let me know. Or make directly a
-[pull request](https://github.com/bdfinst/fireroad/pulls), but please respect the following
-[contributing guide](https://github.com/bdfinst/fireroad/blob/master/CONTRIBUTING.md).
+[issue tracker](https://github.com/bdfinst/Fireroad/issues) to let me know. Or make directly a
+[pull request](https://github.com/bdfinst/Fireroad/pulls), but please respect the following
+[contributing guide](https://github.com/bdfinst/Fireroad/blob/master/CONTRIBUTING.md).
 
 ## License
 
-This theme is released under the [GPLv2 license](https://github.com/bdfinst/fireroad/blob/master/LICENSE.md).
+This theme is released under the [GPLv2 license](https://github.com/bdfinst/Fireroad/blob/master/LICENSE.md).

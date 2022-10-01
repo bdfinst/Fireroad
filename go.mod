@@ -1,4 +1,4 @@
-module github.com/bdfinst/fireroad
+module github.com/bdfinst/Fireroad
 
 go 1.18
 

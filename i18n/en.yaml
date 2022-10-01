@@ -65,7 +65,7 @@
 - id: footer_credits
   translation:
     "Generated with <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> and \
-    <a href=\"https://github.com/bdfinst/fireroad/\" rel=\"nofollow noopener\" target=\"_blank\">fireroad</a> theme."
+    <a href=\"https://github.com/bdfinst/Fireroad/\" rel=\"nofollow noopener\" target=\"_blank\">Fireroad</a> theme."
 
 # 404
 - id: 404_title
