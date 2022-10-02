@@ -1,2 +1,5 @@
+github.com/foo-dogsquared/hugo-mod-simple-icons v0.0.0-20220928232840-6f1081d5dd22 h1:h0n6T5Td4dL3s9U9BpB9OX7oIJEalqxZb8AptbYrlXQ=
+github.com/foo-dogsquared/hugo-mod-simple-icons v0.0.0-20220928232840-6f1081d5dd22/go.mod h1:BS4qmGCkPbuTxIe5atoCBZfOZPfZnrDW+UEuWG1GKag=
+github.com/simple-icons/simple-icons v0.0.0-20220925045504-04f053a32a95/go.mod h1:oOgUUt8yVYOso/wEBi2ojfZP2MU/xxiNccIpaE+jCvE=
 github.com/simple-icons/simple-icons v2.17.1+incompatible h1:bZgl1gWxwNGgM57/RS50pb/6tGFXW6Jr95kYaZwvGJ0=
 github.com/simple-icons/simple-icons v2.17.1+incompatible/go.mod h1:oOgUUt8yVYOso/wEBi2ojfZP2MU/xxiNccIpaE+jCvE=
